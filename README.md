@@ -1,1 +1,1 @@
-# Authentication-Secrets
+# Simple Authorization page 
